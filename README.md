@@ -1,6 +1,6 @@
 # ClimbersSaftey
 
-<h1>WORK IN PROGRESS</h1>
+<h1>My first project for learning programing</h1>
 
 <p> An app for calculating the amount of sandbags a belayer needs,depending on the weight of the climber.</p>
 
